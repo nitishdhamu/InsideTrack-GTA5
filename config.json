@@ -1,0 +1,45 @@
+{
+  "screen_width": 1920,
+  "screen_height": 1080,
+  "start_delay_seconds": 10,
+  "poll_delay_seconds": 0.8,
+  "race_poll_delay_seconds": 3.0,
+  "post_click_delay_seconds": 1.2,
+  "click_hold_seconds": 0.12,
+  "post_move_delay_seconds": 0.05,
+  "bet_click_hold_seconds": 0.12,
+  "bet_post_move_delay_seconds": 0.05,
+  "bet_right_click_interval_seconds": 0.15,
+  "ocr_min_rows_required": 4,
+  "bet_right_clicks": 27,
+  "clicks": {
+    "main_single_event_place_bet": [1445, 908],
+    "betting_place_bet": [1280, 790],
+    "result_bet_again": [960, 998],
+    "horse_rows": [
+      [335, 338],
+      [335, 459],
+      [335, 580],
+      [335, 702],
+      [335, 823],
+      [335, 944]
+    ],
+    "bet_amount_left": [1052, 517],
+    "bet_amount_right": [1518, 517]
+  },
+  "regions": {
+    "state_top": [720, 20, 760, 180],
+    "state_right": [960, 175, 670, 790],
+    "state_betting_panel": [990, 380, 580, 340],
+    "state_bottom": [650, 720, 820, 330],
+    "odds_rows": [
+      [175, 345, 150, 46],
+      [175, 466, 150, 46],
+      [175, 587, 150, 46],
+      [175, 709, 150, 46],
+      [175, 830, 150, 46],
+      [175, 951, 150, 46]
+    ]
+  },
+  "tesseract_cmd": ""
+}

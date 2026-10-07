@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+debug/
+*.log
+*.zip
+
+# IDEs
+.idea/
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.spec
+.build_env/
+*.exe
