@@ -1,0 +1,41 @@
+{
+  "screen_width": 1920,
+  "screen_height": 1080,
+  "poll_delay_seconds": 0.8,
+  "race_poll_delay_seconds": 3.0,
+  "post_click_delay_seconds": 1.2,
+  "click_hold_seconds": 0.12,
+  "post_move_delay_seconds": 0.05,
+  "bet_right_click_interval_seconds": 0.15,
+  "bet_right_clicks": 27,
+  "ocr_min_rows_required": 4,
+  "clicks": {
+    "main_single_event_place_bet": [1455, 845],
+    "betting_place_bet": [1280, 790],
+    "result_bet_again": [960, 998],
+    "horse_rows": [
+      [335, 338],
+      [335, 459],
+      [335, 580],
+      [335, 702],
+      [335, 823],
+      [335, 944]
+    ],
+    "bet_amount_right": [1518, 517]
+  },
+  "regions": {
+    "state_top": [720, 20, 760, 180],
+    "state_right": [960, 175, 670, 790],
+    "state_betting_panel": [990, 380, 580, 340],
+    "state_bottom": [150, 760, 1620, 290],
+    "odds_rows": [
+      [175, 345, 150, 46],
+      [175, 466, 150, 46],
+      [175, 587, 150, 46],
+      [175, 709, 150, 46],
+      [175, 830, 150, 46],
+      [175, 951, 150, 46]
+    ]
+  },
+  "tesseract_cmd": ""
+}
